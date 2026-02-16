@@ -1,6 +1,7 @@
 #!/bin/bash
 #
 echo "This is first webhook script"
+echo "This is first webhook script"
 echo "hi are you therre"
 echo "why are you"
 echo "This is not working"
